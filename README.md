@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @k3wuEk
-- 👀 I’m interested in guitar/anime/science fiction
 - 🌱 I’m currently learning cv/ml
 
 <!---
